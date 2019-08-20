@@ -100,9 +100,11 @@ canvas{
   background-attachment: fixed;
   border-radius: 0;
 }
+.fixed-top{
+	height:80px;
+}
 .navbar{
-  height: 80px;
-	width:80%;
+width:80%;
   margin-right:auto;
   margin-left: auto;
 }
