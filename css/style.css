@@ -149,6 +149,9 @@ canvas{
   .active{
     color: black;
   }
+.bawah{
+display: none;
+}
   #p2{
     top: -598px;
     width: 100%;
